@@ -3,4 +3,10 @@
     width: 500px;
 
 }
-
+.fundo{
+   background-color: black;
+  ;
+}
+.letras{
+    color: white;
+}
